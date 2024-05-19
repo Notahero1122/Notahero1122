@@ -1,5 +1,5 @@
 {
-	"facebookAccount":Rex Xwd
+	"facebookAccount":""
 		"email": "sexylexi498@gmail.com",
 		"password": "Laxman@4u123",
 		"2FASecret": "",
@@ -17,7 +17,7 @@
 	"adminOnly": 
 		"enable": false,
 		"ignoreCommand": []
-	},
+
 	"adminBot": [100089523352862],
 	"whiteListMode": {
 		"enable": false,
